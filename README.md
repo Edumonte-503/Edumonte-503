@@ -1,13 +1,13 @@
-##👋 ¡Hola! Soy Eduardo Monterrosa 
+👋 ¡Hola! Soy Eduardo Monterrosa 
 
 
 :technologist: Soy estudiante de Ingenieria informatica.
 
 :art: Me encanta diseñar, aprender cosas nuevas y tocar instumentos musicales. 
 
-Me gustan los deportes y hacer mucho ejercicio.
+:goal_net: Me gustan los deportes y hacer mucho ejercicio.
 
-Me interesa aprender sobre desarrollo de software y la ciberseguridad.
+:globe_with_meridians: Me interesa aprender sobre desarrollo de software y la ciberseguridad.
 
 :money_with_wings: Soy dueño de mi propio negocio 
 <!--
